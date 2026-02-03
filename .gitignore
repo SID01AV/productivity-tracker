@@ -1,0 +1,16 @@
+# Python / FastAPI backend
+venv/
+__pycache__/
+*.pyc
+backend/app.db
+
+# Node / React frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
